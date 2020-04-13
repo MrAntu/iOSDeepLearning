@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D49022E20F317B10034042E"
+               BuildableName = "Interview03-&#23433;&#35013;&#21253;&#30246;&#36523;.app"
+               BlueprintName = "Interview03-&#23433;&#35013;&#21253;&#30246;&#36523;"
+               ReferencedContainer = "container:Interview03-&#23433;&#35013;&#21253;&#30246;&#36523;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2D49022E20F317B10034042E"
+            BuildableName = "Interview03-&#23433;&#35013;&#21253;&#30246;&#36523;.app"
+            BlueprintName = "Interview03-&#23433;&#35013;&#21253;&#30246;&#36523;"
+            ReferencedContainer = "container:Interview03-&#23433;&#35013;&#21253;&#30246;&#36523;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
