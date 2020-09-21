@@ -25,15 +25,15 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-//    dispatch_queue_t queue = dispatch_get_global_queue(0, 0);
-//
-//    for (int i = 0; i < 1000; i++) {
-//        dispatch_async(queue, ^{
-//            // 加锁
-//            self.name = [NSString stringWithFormat:@"abcdefghijk"];
-//            // 解锁
-//        });
-//    }
+    dispatch_queue_t queue = dispatch_get_global_queue(0, 0);
+
+    for (int i = 0; i < 1000; i++) {
+        dispatch_async(queue, ^{
+            // 加锁
+            self.name = [NSString stringWithFormat:@"abcdefghijk"];
+            // 解锁
+        });
+    }
     
 //    dispatch_queue_t queue = dispatch_get_global_queue(0, 0);
 //

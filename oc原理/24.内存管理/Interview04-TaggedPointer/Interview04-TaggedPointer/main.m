@@ -24,7 +24,7 @@ int main(int argc, const char * argv[]) {
         
         number1.intValue;
         
-//        NSLog(@"%d %d %d", isTaggedPointer(number1), isTaggedPointer(number2), isTaggedPointer(number3));
+        NSLog(@"%d %d %d", isTaggedPointer(number1), isTaggedPointer(number2), isTaggedPointer(number3));
         NSLog(@"%p %p %p", number1, number2, number3);
     }
     return 0;
